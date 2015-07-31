@@ -1,0 +1,11 @@
+{
+    "name": "container-interop/compiler-interop",
+    "type": "library",
+    "description": "Promoting the interoperability of compiled container objects",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Interop\\Container\\Compiler\\": "src/Interop/Container/Compiler/"
+        }
+    }
+}
