@@ -1,7 +1,7 @@
 # Container Compiler Interoperability
 
 *compiler-interop* tries to identify and standardize features in *container compiler* objects to achieve 
-interopererability.
+interoperability.
 
 While *container-interop/container-interop* tries to standardize how we fetch entries from containers,
 *container-interop/compiler-interop* tries to standardize how we put entries into a (compiled) container.
